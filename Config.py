@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-STRING = getenv("STRING")
+STRING = getenv("1BVtsOKMBu0wCUPfFNnMRtIB-920Wuk1Uu0Ujw3r_ilouGQRJrjKoJ4cavTroZpKAmZ2k3U042CIW3uZbZsKN3H8aQQckQ_E3XyONuj6tJhaYnOECF2ATc-bvjgBTcwPkuXTz3tWe4uSiSqQQ6VWRo3MWzLU8Pscgk0qE2J75gQZvWzrMzS0K8Q0HZdlz0QVoDzF6dCEARguEIbllyD4GUjp6VbIqBdSDZ3MKA99beEyLNSfLdeWJZNGlO6cj21WNSJGg2aR49krCg8TrRPiiDOYNpgBmOncitnQUrod-yj2a4oCyVWoYzfISE--9Nh5u_jzmxam_4Ghl_WiIP3iXkSdHZkvRAqE=")
 STRING2 = getenv("STRING2")
 STRING3 = getenv("STRING3")
 STRING4 = getenv("STRING4")
@@ -33,7 +33,7 @@ STRING27 = getenv("STRING27")
 STRING28 = getenv("STRING28")
 STRING29 = getenv("STRING29")
 STRING30 = getenv("STRING30")
-ALIVE_NAME = getenv("ALIVE_NAME")
+ALIVE_NAME = getenv("AVIVEK IS ON FIRE")
 API_ID = getenv("API_ID")
 API_HASH = getenv("API_HASH")
 BIO_MESSAGE = getenv("BIO")
